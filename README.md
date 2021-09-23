@@ -1,5 +1,5 @@
 # simple-stock-server
-system programming class ( sogang univ. )
+system programming class ( sogang univ. )<br>
 multi-client server
 
 1. event driven (project_1)
